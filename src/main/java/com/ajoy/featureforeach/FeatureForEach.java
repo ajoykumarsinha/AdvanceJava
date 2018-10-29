@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ajoy.app;
+package com.ajoy.featureforeach;
 
 import java.util.ArrayList;
 import java.util.Iterator;
