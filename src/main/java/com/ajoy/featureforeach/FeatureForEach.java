@@ -37,6 +37,9 @@ public class FeatureForEach {
 
 			 
 		});
+		
+		// lambda implementation
+		objArrayList.forEach(val -> System.out.println(" Value is >> "+val));
 		 
 
 	}

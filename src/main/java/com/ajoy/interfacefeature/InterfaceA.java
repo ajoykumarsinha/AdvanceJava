@@ -7,6 +7,7 @@ package com.ajoy.interfacefeature;
  * @author a602276
  *
  */
+@FunctionalInterface
 public interface InterfaceA {
 
 	public void testMethod();
